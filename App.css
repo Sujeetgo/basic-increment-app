@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(12, 116, 220);
+    font-size: 60px;
+    text-align: center;
+}
+.app{
+    border: 2px solid rgb(80, 247, 9);
+    margin:auto;
+    width:200px;
+    text-align: center;
+    margin-top: 15%;
+    border-radius: 4px;
+    outline: 2px solid greenyellow;
+}
+h1{
+    color: red;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button{
+    background-color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+button:hover{
+    cursor: pointer;
+}
